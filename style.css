@@ -1,0 +1,128 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Tahoma;
+}
+/* ===  1ª seção sobre o MENU === */
+.menu {
+    background-color:#9ddffd ;
+    text-align: center;
+    padding: 30px;
+}
+.menu img {
+    width: 170px;
+}
+.menu a {
+    color: black;
+    padding: 5px;
+}
+/* ===  2ª seção sobre a aréa de informações === */
+.secao-sobre {
+    padding: 10px;
+    padding-top: 50px;
+    text-align: center;
+}
+.secao-sobre h1 {
+    padding-top: 50px;
+    font-size: 37px;
+}
+.secao-sobre h2{
+    font-size: 23px;
+    color: #33ace4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.secao-sobre .imagem-secao-sobre {
+    width: 500px;
+}
+.secao-sobre p {
+    padding: 0 200px;
+    text-align: justify;
+    line-height: 30px;
+}
+/* ===  3ª seção sobre a aréa de SERVIÇOS === */
+.secao-servicos ul {
+    width: 150px;
+    margin: 40px auto 20px;
+}
+.secao-servicos li {
+    text-align: left;
+}
+.secao-sobre span {
+    color: #28a6e0;
+    font-weight: bold;
+}
+.secao-servicos {
+    background-color: #0b8fcc;
+    text-align: center;
+    padding: 30px;
+}
+.secao-servicos h2, .secao-servicos p, .secao-servicos ul {
+    color: #fff;
+    line-height: 35px;
+}
+.secao-servicos span{
+    color:#e2fd10 ;
+    font-weight: bold;
+}
+/* ===  4ª seção sobre a aréa de CORRETORES === */
+.secao-corretores {
+    padding: 10px;
+    padding-top: 50px;
+    text-align: center;
+}
+.secao-corretores h2 {
+    font-size: 27px;
+    color: #0b8fcc;
+}
+.secao-corretores img {
+    width: 500px;
+}
+.secao-corretores p {
+    padding: 0 200px;
+    text-align: center;
+    line-height: 30px;
+}
+.secao-corretores span {
+    color: #0b8fcc;
+    font-weight: bold;
+}
+/* ===  5ª seção sobre a aréa de CONTATO === */
+.secao-contato {
+    background-color: #057eb6;
+    text-align: center;
+    padding: 30px;
+}
+.secao-contato h2 {
+    color: #fff;
+}
+.secao-contato p {
+    color: #fff;
+    font-size: 15px;
+    background-color: black;
+    padding: 20px;
+    margin: 10px 300px;
+}
+.secao-contato span {
+    color:#e2fd10 ;
+    font-weight: bold;
+}
+.secao-contato ul {
+    list-style: none;
+}
+.secao-contato li {
+    padding-bottom: 20px
+}
+.secao-contato a {
+    background-color: #fff;
+    color: #057eb6;
+    margin-bottom: 30px;
+    border-radius: 7px;
+    padding: 5px;
+}
+/* ===  6ª seção sobre a aréa de DIREITOS AUTORAIS=== */
+.secao-direitos {
+    background-color: #111;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
